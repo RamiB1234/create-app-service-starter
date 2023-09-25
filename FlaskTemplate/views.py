@@ -3,7 +3,6 @@ Routes and views for the flask application.
 """
 
 from datetime import datetime
-from markupsafe import Markup
 from flask import render_template
 from FlaskTemplate import app
 
